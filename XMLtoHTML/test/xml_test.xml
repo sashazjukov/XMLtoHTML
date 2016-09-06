@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+  <logentry
+     revision="13672">
+    <author>User1</author>
+    <date>2016-08-03T13:32:34.012736Z</date>
+    <msg>some text</msg>
+  </logentry>
+  <logentry  revision="13673">
+    <author>user2</author>
+    <date>2016-08-04T05:58:25.114295Z</date>
+    <msg>my text</msg>
+  </logentry>
+</log>
